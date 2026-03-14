@@ -1,1 +1,1 @@
-# AdminPanel_Vendor_Frontend
+# Event_Management_Vendor_Frontend
